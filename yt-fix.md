@@ -11,10 +11,18 @@
 1. `javascript:(function(){gapi.client.setApiKey("AIzaSyD--___tekD3NI_-Sj8cAnNyuDKFmdtOkM"); alert("Youtube search hotfix loaded.");}());`
 1. `javascript:(function(){gapi.client.setApiKey("AIzaSyBem6ljx-MJR2PqEeRJOL8FywRBTYnP3Rs"); alert("Youtube search hotfix loaded.");}());`
 1. `javascript:(function(){gapi.client.setApiKey("AIzaSyCTeoqqGhpRo5wR7w5TJIp2LMiZsqOPRZg"); alert("Youtube search hotfix loaded.");}());`
+1. `javascript:(function(){gapi.client.setApiKey("AIzaSyCF_lhF-23CpBzmF1c-35kCRlfqkMVmVyA"); alert("Youtube search hotfix loaded.");}());`
 
 ### Способ 2: Консоль браузера
 
-Открой консоль браузера нажатием `Shift + Ctrl + I` и вставь в консоль любой из пяти ключей, перечисленных выше, нажми `Enter`. Это тоже придется повторять при каждом новом входе в руму.
+Открой консоль браузера нажатием `Shift + Ctrl + I` и вставь в консоль любую из перечисленных ниже строк, нажми `Enter`. Это тоже придется повторять при каждом новом входе в руму.
+
+1. `gapi.client.setApiKey("AIzaSyAHB2NzxjWTknbepmzCAI2rRk7eI98ksqY")`
+1. `gapi.client.setApiKey("AIzaSyD1prSlu74GYzGp5LzriyjCth6tEv-6bXA")`
+1. `gapi.client.setApiKey('AIzaSyD--___tekD3NI_-Sj8cAnNyuDKFmdtOkM')`
+1. `gapi.client.setApiKey('AIzaSyBem6ljx-MJR2PqEeRJOL8FywRBTYnP3Rs')`
+1. `gapi.client.setApiKey('AIzaSyCTeoqqGhpRo5wR7w5TJIp2LMiZsqOPRZg')`
+1. `gapi.client.setApiKey('AIzaSyCF_lhF-23CpBzmF1c-35kCRlfqkMVmVyA')`
 
 #### Способ 3: Через дополнение RCS
 RCS может оказаться полезным не только для починки поиска. Об RCS у нас [отдельный гайд](https://an0nwave.github.io/help/rcs.html).
