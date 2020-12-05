@@ -1,5 +1,5 @@
 layout: page
-title: "Как починить поиск для YouTube"
+title: "YouTube Fix"
 permalink: /yt-fix/
 
 ## Как починить поиск для YouTube
