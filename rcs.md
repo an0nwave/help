@@ -21,5 +21,6 @@
 1. `AIzaSyD--___tekD3NI_-Sj8cAnNyuDKFmdtOkM`
 1. `AIzaSyBem6ljx-MJR2PqEeRJOL8FywRBTYnP3Rs`
 1. `AIzaSyCTeoqqGhpRo5wR7w5TJIp2LMiZsqOPRZg`
+1. `AIzaSyCF_lhF-23CpBzmF1c-35kCRlfqkMVmVyA`
 
 [На главную](https://an0nwave.github.io/help/)
