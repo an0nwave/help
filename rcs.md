@@ -1,7 +1,3 @@
-layout: page
-title: "RCS"
-permalink: /rcs/
-
 # Дополнение RCS
 
 Открой [rcs.radiant.dj](https://rcs.radiant.dj) и добавь в закладки центральную кнопку с надписью "RCS" (щелчок правой кнопкой мыши => "добавить в закладки")
