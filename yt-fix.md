@@ -1,6 +1,6 @@
 layout: page
 title: "YouTube Fix"
-permalink: /yt-fix.html
+permalink: /yt-fix/
 
 ## Как починить поиск для YouTube
 
