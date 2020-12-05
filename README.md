@@ -2,7 +2,7 @@
 
 Hi there! Click [here](https://pastebin.com/raw/5uJAH0Di) for the English version of our rules.
 
-Рума ANONWAVE задумана как место где можно делиться годнотой из мира музыки и приятно чилить. Для поддержания порядка нужно соблюдать правила, ознакомься с ними ниже во избежание неприятностей. После этого посмотри, [как искать и добавлять треки](https://i.imgur.com/Id4lWKY.jpg) и [как починить поиск треков из YouTube](https://an0nwave.github.io/help/yt-fix.html). Можешь также ознакомиться с [дополнением RCS](https://an0nwave.github.io/help/rcs.html) для plug.dj. Еще у нас есть канал в Discord: https://discord.gg/VwGKu9V.
+Рума ANONWAVE задумана как место где можно делиться годнотой из мира музыки и приятно чилить. Для поддержания порядка нужно соблюдать правила, ознакомься с ними ниже во избежание неприятностей. После этого посмотри, [как искать и добавлять треки](https://i.imgur.com/Id4lWKY.jpg) и [как починить поиск треков из YouTube](https://an0nwave.github.io/help/yt-fix.html). Можешь также ознакомиться с [дополнением RCS](https://an0nwave.github.io/help/rcs.html) для plug.dj. Еще у нас есть [канал в Discord](https://discord.gg/VwGKu9V).
 
 ## Правила нашей румы
 
