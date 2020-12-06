@@ -24,7 +24,7 @@
 1. `gapi.client.setApiKey('AIzaSyCTeoqqGhpRo5wR7w5TJIp2LMiZsqOPRZg')`
 1. `gapi.client.setApiKey('AIzaSyCF_lhF-23CpBzmF1c-35kCRlfqkMVmVyA')`
 
-#### Способ 3: Через дополнение RCS
+### Способ 3: Через дополнение RCS
 RCS может оказаться полезным не только для починки поиска. Об RCS у нас [отдельный гайд](https://an0nwave.github.io/help/rcs.html).
 
 ### Как создать новый API-ключ
