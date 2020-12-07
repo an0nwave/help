@@ -14,7 +14,7 @@
 
 `/key AIzaSyAHB2NzxjWTknbepmzCAI2rRk7eI98ksqY` 
 
-Вместо указанного выше ключа можешь вставить любой другой. Вот все пять из нашей румы:
+Вместо указанного выше ключа можешь вставить любой другой. Вот все шесть из нашей румы:
 
 1. `AIzaSyAHB2NzxjWTknbepmzCAI2rRk7eI98ksqY`
 1. `AIzaSyD1prSlu74GYzGp5LzriyjCth6tEv-6bXA`
