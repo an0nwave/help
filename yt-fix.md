@@ -20,6 +20,7 @@
 1. `javascript:(function(){gapi.client.setApiKey("AIzaSyCF_lhF-23CpBzmF1c-35kCRlfqkMVmVyA"); alert("Youtube search hotfix loaded.");}());`
 1. `javascript:(function(){gapi.client.setApiKey("AIzaSyABkYKliRh3Gww3fglwaA2e7MQQqlmSds8"); alert("Youtube search hotfix loaded.");}());`
 1. `javascript:(function(){gapi.client.setApiKey("AIzaSyD8BjYmTkgesViFVSNLBSUr0CklMtcbEvA"); alert("Youtube search hotfix loaded.");}());`
+1. `javascript:(function(){gapi.client.setApiKey("AIzaSyDjOCS9B-jIYJnq9OLT0e2gjIuAodTREjQ"); alert("Youtube search hotfix loaded.");}());`
 
 ### Способ 2: Консоль браузера
 
@@ -33,6 +34,7 @@
 1. `gapi.client.setApiKey('AIzaSyCF_lhF-23CpBzmF1c-35kCRlfqkMVmVyA')`
 1. `gapi.client.setApiKey('AIzaSyABkYKliRh3Gww3fglwaA2e7MQQqlmSds8')`
 1. `gapi.client.setApiKey('AIzaSyD8BjYmTkgesViFVSNLBSUr0CklMtcbEvA')`
+1. `gapi.client.setApiKey('AIzaSyDjOCS9B-jIYJnq9OLT0e2gjIuAodTREjQ')`
 
 ### Способ 3: Через дополнение RCS
 RCS может оказаться полезным не только для починки поиска. Об RCS у нас [отдельный гайд](https://an0nwave.github.io/help/rcs.html).
